@@ -16,3 +16,4 @@ C:\Users\aidar\RiderProjects\OptMethods\MyApp\obj\Debug\net9.0\refint\MyApp.dll
 C:\Users\aidar\RiderProjects\OptMethods\MyApp\obj\Debug\net9.0\MyApp.pdb
 C:\Users\aidar\RiderProjects\OptMethods\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
 C:\Users\aidar\RiderProjects\OptMethods\MyApp\obj\Debug\net9.0\ref\MyApp.dll
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\obj\Debug\net9.0\MyApp.sourcelink.json
