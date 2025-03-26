@@ -1,0 +1,11 @@
+C:\Users\aidar\RiderProjects\OptMethods\Methods\bin\Debug\net9.0\Methods.deps.json
+C:\Users\aidar\RiderProjects\OptMethods\Methods\bin\Debug\net9.0\Methods.dll
+C:\Users\aidar\RiderProjects\OptMethods\Methods\bin\Debug\net9.0\Methods.pdb
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\Methods.AssemblyInfoInputs.cache
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\Methods.AssemblyInfo.cs
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\Methods.dll
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\refint\Methods.dll
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\Methods.pdb
+C:\Users\aidar\RiderProjects\OptMethods\Methods\obj\Debug\net9.0\ref\Methods.dll
