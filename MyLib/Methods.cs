@@ -146,7 +146,7 @@ public static class Methods
         return x;
     }
     
-    private static double EuclidNorm(Matrix a)
+    public static double EuclidNorm(Matrix a)
     {
         double res = 0;
         for (int i = 0; i < a.Rows; i++)
