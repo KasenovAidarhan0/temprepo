@@ -1,0 +1,7 @@
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\bin\Release\net9.0\publish\MyApp.exe
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\bin\Release\net9.0\publish\MyApp.dll
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\bin\Release\net9.0\publish\MyApp.deps.json
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\bin\Release\net9.0\publish\MyApp.runtimeconfig.json
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\bin\Release\net9.0\publish\MyApp.pdb
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\bin\Release\net9.0\publish\MyLib.dll
+C:\Users\aidar\RiderProjects\OptMethods\MyApp\bin\Release\net9.0\publish\MyLib.pdb

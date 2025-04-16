@@ -1,0 +1,12 @@
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\bin\Release\net9.0\MyLib.deps.json
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\bin\Release\net9.0\MyLib.dll
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\bin\Release\net9.0\MyLib.pdb
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\MyLib.AssemblyInfo.cs
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\MyLib.sourcelink.json
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\MyLib.dll
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\refint\MyLib.dll
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\MyLib.pdb
+C:\Users\aidar\RiderProjects\OptMethods\MyLib\obj\Release\net9.0\ref\MyLib.dll
